@@ -1,0 +1,7 @@
+Hi %s!
+
+As of Monday morning, our records indicate you received %s on the midterm. 
+
+
+Best,
+	xx
